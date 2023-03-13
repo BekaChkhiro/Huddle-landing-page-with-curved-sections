@@ -270,6 +270,11 @@ body {
     height: 189px;
 }
 
+.flowing-image img {
+    width: 265.5px;
+    height: 189px;
+}
+
 /* flowing content */
 
 .flowing-content {
