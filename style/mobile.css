@@ -556,8 +556,11 @@ body {
 
 /* social icons */
 
-.social-icons {
+.social-icons-div {
     background-color: #00252E;
+}
+
+.social-icons {
     padding: 0px 28px 46px 28px;
     display: flex;
     justify-content: start;

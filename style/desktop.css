@@ -359,5 +359,7 @@
 
     .social-icons {
         padding: 0px 120px 103px;
+        width: 1200px;
+        margin: 0px auto;
     }
 }
