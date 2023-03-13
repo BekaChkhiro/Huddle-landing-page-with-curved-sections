@@ -1,0 +1,363 @@
+@media screen and (min-width: 1440px) {
+    /* header */
+
+    .header-div {
+        padding: 79px 63px 0px 80px;
+        width: 1297px;
+    }
+
+    .header-div img {
+        width: 240px;
+        height: 38px;
+    }
+
+    .header-button {
+        width: 136px;
+        height: 40px;
+        border-radius: 20px;
+        font-size: 16px;
+        line-height: 21.79px;
+    }
+
+    .header-button:hover {
+        color: #FF8ED7;
+        cursor: pointer;
+    }
+
+    /* build content */
+
+    .build-content {
+        padding: 226px 211px 0px 215px;
+    }
+
+    .build-content h1 {
+        width: 1014px;
+        font-size: 48px;
+        line-height: 72px;
+        margin-bottom: 26px;
+    }
+
+    .build-content p {
+        width: 600px;
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 49px;
+    }
+
+    .build-content-button {
+        width: 400px;
+        height: 80px;
+        border-radius: 40px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .build-content-button:hover {
+        background-color: #FF8ED7;
+        cursor: pointer;
+    }
+
+    /* build image */
+
+    .build-image {
+        margin-top: 120px;
+        margin-bottom: 128px;
+    }
+
+    .build-image img {
+        width: 1016px;
+        height: 720px;
+    }
+
+    /* communities */
+
+    .communities {
+        flex-direction: row;
+        padding: 0px 280px 133px;
+        width: 880px;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    /* grow div */
+
+    /* grow top bg */
+
+    .grow-bg-top {
+        background: url(../images/bg-section-top-desktop-1.svg) no-repeat;
+        height: 165px;
+        background-size: 100%;
+    }
+
+    /* grow bg bottom */
+
+    .grow-bg-bottom {
+        background: url(../images/bg-section-bottom-desktop-1.svg) no-repeat;
+        height: 139px;
+        background-size: 100%;
+    }
+
+    /* grow */
+
+    .grow {
+        flex-direction: row-reverse;
+        justify-content: center;
+        align-items: center;
+        padding: 68.44px 0px 45.6px;
+        gap: 121.78px;
+    }
+
+    /* grow image */
+
+    .grow-image {
+        width: 517.22px;
+        height: 423.11px;
+    }
+
+    .grow-image img {
+        width: 517.22px;
+        height: 423.11px;
+    }
+
+    /* grow content */
+
+    .grow-content {
+        align-items: start;
+        width: 520px;
+        gap: 26px;
+    }
+
+    .grow-content h2 {
+        width: 303px;
+        font-size: 40px;
+        line-height: 60px;
+        text-align: start;
+    }
+
+    .grow-content p {
+        width: 520px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        text-align: start;
+    }
+
+    /* flowing */
+
+    .flowing {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 134px;
+        padding: 194.84px 0px 111px;
+    }
+
+    /* flowing image */
+
+    .flowing-image {
+        width: 531px;
+        height: 378px;
+    }
+
+    .flowing-image img {
+        width: 531px;
+        height: 378px;
+    }
+
+    /* flowing content */
+
+    .flowing-content {
+        align-items: start;
+        gap: 26px;
+        width: 520px;
+    }
+
+    .flowing-content h2 {
+        width: 471px;
+        font-size: 40px;
+        line-height: 60px;
+        text-align: start;
+    }
+
+    .flowing-content p {
+        width: 520px;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: start;
+    }
+
+    /* users */
+
+    /* users bg top */
+
+    .users-bg-top {
+        background: url(../images/bg-section-top-desktop-2.svg) no-repeat;
+        height: 156px;
+        background-size: 100%;
+    }
+
+    /* users bg bottom */
+
+    .users-bg-bottom {
+        background: url(../images/bg-section-bottom-desktop-2.svg) no-repeat;
+        height: 139px;
+        background-size: 100%;
+    }
+
+    /* users */
+
+    .users {
+        flex-direction: row-reverse;
+        justify-content: center;
+        align-items: center;
+        padding: 42px 0px 61.77px;
+        gap: 133px;
+    }
+
+    /* users image */
+
+    .users-image {
+        width: 534px;
+        height: 404px;
+    }
+
+    .users-image img {
+        width: 534px;
+        height: 404px;
+    }
+
+    /* users content */
+
+    .users-content {
+        align-items: start;
+        width: 520px;
+        gap: 26px;
+    }
+
+    .users-content h2 {
+        width: 220px;
+        font-size: 40px;
+        line-height: 60px;
+        text-align: start;
+    }
+
+    .users-content p {
+        width: 520px;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: start;
+    }
+
+    /* ready to build */
+
+    .ready-to-build {
+        padding: 135.23px 367px 178px 389px;
+        gap: 42px;
+    }
+
+    .ready-to-build h3 {
+        width: 684px;
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .ready-to-build button {
+        width: 400px;
+        height: 80px;
+        border-radius: 40px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .ready-to-build button:hover {
+        background-color: #FF8ED7;
+        cursor: pointer;
+    }
+
+    /* footer */
+
+    /* footer bg top */
+
+    .footer-bg-top {
+        background: url(../images/bg-footer-top-desktop.svg) no-repeat;
+        height: 158px;
+        background-size: 100%;
+    }
+
+    .footer-div {
+        padding: 122px 120px 80px;
+        flex-direction: row-reverse;
+        justify-content: center;
+        align-items: center;
+        gap: 340px;
+    }
+
+    /* newsletter */
+
+    .newsletter h3 {
+        width: 154px;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .newsletter p {
+        width: 344px;
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 40px;
+    }
+
+    .footer-input {
+        flex-direction: row;
+        gap: 40px;
+    }
+
+    #footer-email {
+        height: 48px;
+    }
+
+    .footer-button {
+        width: 160px;
+        height: 48px;
+        justify-content: center;
+    }
+
+    .footer-button button {
+        width: 160px;
+        height: 48px;
+        border-radius: 5px;
+    }
+
+    .footer-button button:hover {
+        background-color: #FF8ED7;
+        cursor: pointer;
+    }
+
+    /* contact */
+
+    .contact p {
+        width: 340px;
+        margin-bottom: 24px;
+    }
+
+    .icon-list {
+        width: 320px;
+    }
+
+    .icon-list-item {
+        gap: 16px;
+    }
+
+    .icon-list-item p {
+        width: 182px;
+        font-size: 16px;
+        line-height: 24px;
+        margin: 0px;
+    }
+
+    /* social icons */
+
+    .social-icons {
+        padding: 0px 120px 103px;
+    }
+}
